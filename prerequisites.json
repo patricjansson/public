@@ -1,8 +1,0 @@
-{
-  "prerequisites" : {
-    "docker" : {
-      "docker" : "1.11.0",
-      "docker-compose" : "1.7.0"
-    }
-  }
-}
